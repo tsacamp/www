@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  color: #fff;
+};
+.outside {
+  height: 25%;
+  line-height: 25%;
+};
+.inside {
+  line-height: 50%;
+  width: 30%;
+  height: 50%;
+  vertical-align: middle;
+}
